@@ -1,6 +1,6 @@
 ## Hi there, I'm Daniel 👋
 
-I'm an 18-year-old Software Engineering student based in Dubai 🇦🇪 studying in University of Birmingham of Dubai, Moreover, I am on a mission to become a world-class AI/ML engineer. I’m currently building real-world projects while learning in public, staying consistent, and pushing myself daily.
+I'm an 19-year-old Software Engineering student based in Dubai 🇦🇪 studying in University of Birmingham of Dubai, Moreover, I am on a mission to become a world-class AI/ML engineer. I’m currently building real-world projects while learning in public, staying consistent, and pushing myself daily.
 
 I specialize in these Programming Languages : Java, Python (Including NumPy and Pandas), SQL (In Azure), ORACLE
 ---
