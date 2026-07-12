@@ -1,54 +1,108 @@
-## Hi there, I'm Daniel 👋
+<h1 align="center">Hi, I'm Daniel 👋</h1>
 
-I'm an 19-year-old Software Engineering student based in Dubai 🇦🇪 studying in University of Birmingham of Dubai, Moreover, I am on a mission to become a world-class AI/ML engineer. I’m currently building real-world projects while learning in public, staying consistent, and pushing myself daily.
+<p align="center">
+  <b>Final-year BSc Computer Science with AI</b> · University of Birmingham Dubai<br>
+  Building <b>Medical AI & Machine Learning</b> — with a foundation in <b>defensive cybersecurity</b>.
+</p>
 
-I specialize in these Programming Languages : Java, Python (Including NumPy and Pandas), SQL (In Azure), ORACLE
----
-
-### 💡 What I’m Learning Right Now
-- 📊 Data Science & Machine Learning (with Python & NumPy& pandas)
-- 🤖 Artificial Intelligence: building, training & deploying models
-- 🌐 Full Stack Web Development (HTML, CSS, JS, Node.js)
-- ☁️ Cloud Infrastructure: AWS (coming soon...)
-
----
-
-### 🔧 Current Projects
-- 🤖 **Stock Market Prediction App** – combining finance + AI to forecast trends
-- ⚙️ **Automation App** – simplifying boring tasks using Python scripts
-
-I love working on practical, high-impact problems — especially when they help people or businesses run smarter.
+<p align="center">
+  <a href="https://linkedin.com/in/daniel-varghese-269756201"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:djvarghese12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/dannyj1202"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
-### 🤝 Open to Collaborations
-I'm currently open to:
-- 🧠 Internships in AI/ML, software engineering, or web dev
-- 🚀 Early-stage startups looking for passionate builders
-- 🛠 Real-world collaborative projects
+### 👨‍💻 About
 
-> If you're building something meaningful — I’d love to hear about it.
+I'm a computer science student focused on **applied machine learning and computer vision**, with hands-on experience in **enterprise network security**. I like problems that sit at the intersection of the two — building systems that are useful *and* hard to break.
+
+- 🔬 Building **ML models** end-to-end — from data and training to deployable apps
+- 🛡️ Interned in **network security** at Paramount Computer Systems (Fortinet, Check Point, Cisco)
+- 🐍 Writing **security tooling** in Python (Scapy, layer-2 attacks & defensive study)
+- 📚 Deepening my foundations in ML systems, algorithms, and secure backend development
+- 🌍 Based in the UAE / Kuwait · open to internships and early-stage teams
 
 ---
 
-### 📫 Connect With Me
-- [LinkedIn] (https://linkedin.com/in/daniel-varghese)
-- [GlassDoor] (https://www.glassdoor.co.uk/member/profile)
-- [Bayt] (https://people.bayt.com/daniel-varghese-84972296/)
+### 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**ML & Data**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Backend & Web**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Databases & Cloud**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Security**
+![Wireshark](https://img.shields.io/badge/Networking-CCNA%20principles-1BA0D7?style=flat-square)
+![Security](https://img.shields.io/badge/CompTIA-Network%2B%20%2F%20Security%2B%20principles-C8202F?style=flat-square)
+
 ---
 
-Thanks for visiting — more exciting things coming soon!
-<!--
-**dannyj1202/dannyj1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Featured Projects
 
-Here are some ideas to get you started:
+**🛡️ [ARP Spoofer](https://github.com/dannyj1202/ARP-Spoofer---Ethical-Hacking-Project)** &nbsp;·&nbsp; *Ethical Hacking / Networking*
+> A command-line ARP spoofing tool that positions the host as a man-in-the-middle between a target and its gateway. Built with Scapy for hands-on study of layer-2 attacks and the defensive controls that stop them.
+> `Python` `Scapy` `Networking` `Security`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🏨 [Hotel Booking Cancellation Predictor](https://github.com/dannyj1202/Hotel-Booking-Cancellation-ML-Predictor-Model)** &nbsp;·&nbsp; *Machine Learning*
+> Predicts hotel booking cancellations with a decision-tree model, wrapped in a Gradio app so anyone can try it interactively.
+> `Python` `scikit-learn` `Gradio`
+
+**📊 [Customer Segmentation with K-Means](https://github.com/dannyj1202/Customer-Segmentation-Unsupervised-Learning-ML-model-)** &nbsp;·&nbsp; *Machine Learning*
+> Unsupervised K-Means clustering on retail data to identify distinct buyer personas — surfacing insights to optimise marketing and improve retention.
+> `Python` `scikit-learn` `Jupyter`
+
+**🤖 [AI Study Assistant](https://github.com/dannyj1202/AI-study-assistant)** &nbsp;·&nbsp; *GDG Bounty Hackathon 2026*
+> Team-built AI academic assistant that generates summaries, flashcards, and study resources from uploaded materials — full-stack build demoed live at the university hackathon.
+> `JavaScript` `Cloud AI` `Full-Stack`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dannyj1202&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyj1202&layout=compact&hide_border=true" alt="Top languages">
+</p>
+
+---
+
+### 📜 Certifications
+
+- **AWS Cloud Practitioner Essentials** — Amazon Web Services (2025)
+- **Data Science & Machine Learning: Making Data-Driven Decisions** — MIT IDSS (2025)
+- **Responsive Web Design** — freeCodeCamp (2025)
+
+---
+
+### 🤝 Let's Connect
+
+I'm open to **internships in AI/ML, software engineering, and cybersecurity**, and I enjoy working with early-stage teams building something real.
+
+<p align="left">
+  <a href="https://linkedin.com/in/daniel-varghese-269756201">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:djvarghese12@gmail.com">djvarghese12@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://github.com/dannyj1202">GitHub</a>
+</p>
