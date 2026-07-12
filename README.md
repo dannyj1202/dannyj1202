@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Daniel 👋</h1>
 
 <p align="center">
-  <b>Final-year BSc Computer Science with AI</b> · University of Birmingham Dubai<br>
-  Building <b>Medical AI & Machine Learning</b> — with a foundation in <b>defensive cybersecurity</b>.
+  <b>Final-Year BSc Computer Science with AI</b> · University of Birmingham Dubai<br>
+  Building <b>Machine Learning</b> systems and <b>performance-critical software</b> — grounded in <b>defensive cybersecurity</b>.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/daniel-varghese-269756201"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:djvarghese12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=djvarghese12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/dannyj1202"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -15,13 +15,17 @@
 
 ### 👨‍💻 About
 
-I'm a computer science student focused on **applied machine learning and computer vision**, with hands-on experience in **enterprise network security**. I like problems that sit at the intersection of the two — building systems that are useful *and* hard to break.
+I'm a computer science student focused on **applied machine learning** and **performance-conscious software**, with hands-on experience in **enterprise network security**. I care about *how* things run, not just whether they run — writing code that's efficient, measurable, and hard to break.
 
 - 🔬 Building **ML models** end-to-end — from data and training to deployable apps
+- ⚡ Drawn to **performance engineering** — profiling, optimisation, and getting close to the metal with **C** (with **C++ / Rust** next)
 - 🛡️ Interned in **network security** at Paramount Computer Systems (Fortinet, Check Point, Cisco)
 - 🐍 Writing **security tooling** in Python (Scapy, layer-2 attacks & defensive study)
-- 📚 Deepening my foundations in ML systems, algorithms, and secure backend development
 - 🌍 Based in the UAE / Kuwait · open to internships and early-stage teams
+
+### 🎯 Current Focus
+
+`Performance Engineering` &nbsp;·&nbsp; `ML Systems` &nbsp;·&nbsp; `Low-Level / Systems Programming` &nbsp;·&nbsp; `Secure Backend Development`
 
 ---
 
@@ -80,6 +84,22 @@ I'm a computer science student focused on **applied machine learning and compute
 
 ---
 
+### 💼 Experience
+
+**Software Engineer Intern — Network Security** · *Paramount Computer Systems WLL, Kuwait* · 2026
+> Selected for a 45-day engineering internship at a regional cybersecurity provider. Worked in a production environment on **Fortinet, Check Point, and Cisco** technologies — applying Network+ / Security+ principles, building ethical-hacking lab projects to study attack vectors and defences, and designing/troubleshooting network topologies in Cisco Packet Tracer (EIGRP, IOS config).
+
+**IT Apprentice** · *NREC — National Real Estate Company, Kuwait* · 2024–2025
+> Hands-on **Linux system administration**, server monitoring, and enterprise IT operations. Ran SQL queries against **Oracle** systems, worked with **Microsoft Azure**, and built **Java**-based internal tools to automate operational workflows alongside IT and finance teams.
+
+---
+
+### 🎓 Education
+
+**BSc Computer Science with Artificial Intelligence** · University of Birmingham Dubai · *Sep 2024 – Jun 2027 (expected)*
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -103,6 +123,6 @@ I'm open to **internships in AI/ML, software engineering, and cybersecurity**, a
 
 <p align="left">
   <a href="https://linkedin.com/in/daniel-varghese-269756201">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:djvarghese12@gmail.com">djvarghese12@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=djvarghese12@gmail.com">djvarghese12@gmail.com</a> &nbsp;·&nbsp;
   <a href="https://github.com/dannyj1202">GitHub</a>
 </p>
