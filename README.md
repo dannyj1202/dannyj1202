@@ -32,6 +32,7 @@ I'm a computer science student focused on **applied machine learning** and **per
 ### 🛠️ Tech Stack
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -40,18 +41,21 @@ I'm a computer science student focused on **applied machine learning** and **per
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **ML & Data**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Backend & Web**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Databases & Cloud**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -59,6 +63,7 @@ I'm a computer science student focused on **applied machine learning** and **per
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Security**
+
 ![Wireshark](https://img.shields.io/badge/Networking-CCNA%20principles-1BA0D7?style=flat-square)
 ![Security](https://img.shields.io/badge/CompTIA-Network%2B%20%2F%20Security%2B%20principles-C8202F?style=flat-square)
 
@@ -105,6 +110,14 @@ I'm a computer science student focused on **applied machine learning** and **per
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dannyj1202&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyj1202&layout=compact&hide_border=true" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannyj1202&hide_border=true" alt="GitHub streak stats">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dannyj1202&theme=flat&no-frame=true&row=1&margin-w=15&column=6" alt="GitHub trophies">
 </p>
 
 ---
