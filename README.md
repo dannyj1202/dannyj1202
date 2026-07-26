@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:0E7490&height=220&section=header&text=Daniel%20John%20Varghese&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20Systems%20%7C%20Network%20Security&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:7C3AED&height=220&section=header&text=Daniel%20John%20Varghese&fontSize=42&fontColor=FFFFFF&animation=scaleIn&fontAlignY=35&desc=Software%20Engineer%20with%20Performance%20Engineering%20%7C%20AI%20Engineer%20%7C%20Cybersecurity&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://github.com/dannyj1202">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=Building+Dental+AI+%7C+Diagnostic+ML+for+X-rays;Final-Year+BSc+Computer+Science+with+AI+%40+UoB+Dubai;Software+Engineer+Intern+%7C+Network+Security+%40+Paramount;ML+Systems+%7C+Performance+Engineering+%7C+Secure+Backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=Software+Engineer+%7C+Performance+Engineering;AI+Engineer+%7C+Applied+ML+Systems;Cybersecurity+%7C+Defensive+%26+Ethical+Security;Final-Year+BSc+Computer+Science+with+AI+%40+UoB+Dubai" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-djvarghese12%40gmail.com-0E7490?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djvarghese12@gmail.com)
+[![Email](https://img.shields.io/badge/Email-djvarghese12%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djvarghese12@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-dannyj1202-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dannyj1202)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-varghese-269756201)
-![Profile Views](https://komarev.com/ghpvc/?username=dannyj1202&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=dannyj1202&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
 
 </div>
 
@@ -21,8 +21,8 @@
 
 I'm a final-year **Computer Science with Artificial Intelligence** undergraduate at the **University of Birmingham Dubai**, building applied ML systems and performance-conscious software — grounded in hands-on **enterprise network security** experience. I care about *how* things run, not just whether they run: code that's efficient, measurable, and hard to break.
 
-- 🦷 Building **medical imaging AI** — deep learning on dental radiographs for clinical decision support, served through a FastAPI backend
-- ⚡ Drawn to **performance engineering** — profiling, optimisation, and getting close to the metal with **C** (C++ / Rust next)
+- ⚡ Focused on **performance engineering** — profiling, optimisation, and getting close to the metal with **C** (C++ / Rust next)
+- 🤖 Building **applied ML systems** end-to-end — from data and training to deployable, served models
 - 🛡️ Interned in **network security** at Paramount Computer Systems — **Fortinet, Check Point, Cisco, Wireshark** in a production environment
 - 🐍 Writing **security tooling** in Python (Scapy, layer-2 attack & defence study)
 - 🌍 Based between the **UAE and Kuwait** · open to internships and early-stage teams
@@ -31,37 +31,11 @@ I'm a final-year **Computer Science with Artificial Intelligence** undergraduate
 
 ### 🎯 Current Focus
 
-`Medical AI` &nbsp;·&nbsp; `ML Systems` &nbsp;·&nbsp; `Performance & Low-Level Engineering` &nbsp;·&nbsp; `Secure Backend Development` &nbsp;·&nbsp; `Cloud (AWS)`
+`Performance Engineering` &nbsp;·&nbsp; `ML Systems` &nbsp;·&nbsp; `Low-Level / Systems Programming` &nbsp;·&nbsp; `Secure Backend Development` &nbsp;·&nbsp; `Cloud (AWS)`
 
 ---
 
-### 🌟 Main Project
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-**🦷 Dental Diagnostic AI** — Deep Learning for Radiographic Decision Support
-
-An object-detection pipeline that reads panoramic dental X-rays and surfaces findings a clinician can verify — caries, periapical lesions, bone loss, and impacted teeth — built as a decision-support layer, not a replacement for diagnosis.
-
-- Trained **PyTorch** detection models on the **DENTEX** panoramic radiograph dataset, with quadrant/enumeration/diagnosis label hierarchy
-- Built a reproducible training stack — **CUDA**-accelerated PyTorch, pinned dependencies via `pyproject.toml`, deterministic seeds and versioned experiment configs
-- Engineered the inference layer as a **FastAPI** service returning bounding boxes with per-finding confidence, designed for clinic-side integration
-- Applied medical-imaging-aware preprocessing and augmentation (CLAHE, geometric transforms) tuned for greyscale radiographs
-- Treating **explainability and calibration as first-class** requirements — findings are surfaced for review, never asserted as diagnoses
-
-`Python` `PyTorch` `CUDA` `FastAPI` `OpenCV` `NumPy` `Docker`
-
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dannyj1202)
-
-</td>
-</tr>
-</table>
-
----
-
-### 📦 Other Projects
+### 📦 Projects
 
 <table>
 <tr>
@@ -255,11 +229,11 @@ A full-stack academic assistant that turns uploaded course material into summari
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dannyj1202&show_icons=true&count_private=true&hide_border=true&bg_color=0B1120&title_color=14B8A6&text_color=CBD5E1&icon_color=0E7490&border_color=1E293B" width="48%"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=dannyj1202&hide_border=true&background=0B1120&stroke=1E293B&ring=14B8A6&fire=0E7490&currStreakLabel=14B8A6&sideLabels=CBD5E1&currStreakNum=14B8A6&sideNums=CBD5E1&dates=64748B" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dannyj1202&show_icons=true&count_private=true&hide_border=true&bg_color=1E1B4B&title_color=8B5CF6&text_color=E0E7FF&icon_color=6D28D9&border_color=312E81" width="48%"/>
+<img src="https://github-readme-streak-stats.demolab.com?user=dannyj1202&hide_border=true&background=1E1B4B&stroke=312E81&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6&sideLabels=E0E7FF&currStreakNum=8B5CF6&sideNums=E0E7FF&dates=A5B4FC" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyj1202&layout=compact&hide_border=true&bg_color=0B1120&title_color=14B8A6&text_color=CBD5E1&border_color=1E293B" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=dannyj1202&theme=darkhub&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyj1202&layout=compact&hide_border=true&bg_color=1E1B4B&title_color=8B5CF6&text_color=E0E7FF&border_color=312E81" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dannyj1202&theme=discord&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" width="48%"/>
 
 </div>
 
@@ -271,10 +245,10 @@ A full-stack academic assistant that turns uploaded course material into summari
 
 Open to **internships and graduate roles in AI/ML, software engineering, and cybersecurity** — and to early-stage teams building something real.
 
-[![Email](https://img.shields.io/badge/Email_Me-0E7490?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djvarghese12@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djvarghese12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-varghese-269756201)
 [![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dannyj1202)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:0B1120&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:1E1B4B&height=120&section=footer" width="100%"/>
 
 </div>
